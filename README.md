@@ -1,5 +1,5 @@
 # Naan-Mudhalvan-CSE---III-2022-2026-
-Naan Mudhalvan Speech Recognition Project 0
+Naan Mudhalvan Speech Recognition Project
 Team Name : Kings Of Clubs
 Team Members:
 1.Andrew Godwin J (822722104003)
